@@ -4,9 +4,11 @@
 
 
 /**
- * main - Checks if random interger n is positve, negative or zero
+ * main - Entry point
+ * @void: Null value
  *
- * Return Always 0 (Success)
+ * Description: Print if a number is positive, negative or zero
+ * Return: Zero value
  */
 int main(void)
 {
