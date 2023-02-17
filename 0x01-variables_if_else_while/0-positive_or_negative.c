@@ -7,9 +7,7 @@
  * main - Checks if random interger n is positve, negative or zero
  *
  * Return Always 0 (Success)
- */ 
-
-
+ */
 int main(void)
 {
 	int n;
