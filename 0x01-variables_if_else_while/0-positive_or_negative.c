@@ -3,6 +3,10 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/* main - Checks if random interger n is positve, negative or zero
+ *
+ */
+
 /* betty style doc for function main goes there */
 int main(void)
 {
