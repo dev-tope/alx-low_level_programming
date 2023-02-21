@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description _ Print alphabets lowercase
+ * Description - Print alphabets lowercase
  * Return: void
  */
 
@@ -10,11 +10,11 @@ void print_alphabet(void)
 {
 	char c = 'a';
 
-	while(c <= 'z')
+	while (c <= 'z')
 	{
 		_putchar(c);
 		c++;
 	}
-	
+
 	_putchar('\n');
 }
