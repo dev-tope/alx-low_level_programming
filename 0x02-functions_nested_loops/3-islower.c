@@ -2,7 +2,7 @@
 
 /**
  * _islower - Entry point
- * Description - Check if c is a lowercase alphabet
+ * @c: The parameter c
  * Return: 1 if true, 0 if false
  */
 
