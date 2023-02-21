@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Description - Print alphabets lowercase
+ * Description - Prints the alphabet in lowercase
  * Return: void
  */
 
