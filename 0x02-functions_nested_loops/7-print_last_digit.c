@@ -3,7 +3,7 @@
 /**
  * print_last_digit - Entry point
  * Descripton - Print last digit of a number
- * @n: Interger 
+ * @n: Interger
  * Return: int
  */
 

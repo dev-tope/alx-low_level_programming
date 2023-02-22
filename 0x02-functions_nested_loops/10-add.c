@@ -3,6 +3,8 @@
 /**
  * add - Entry point
  * Description - adds two integers together
+ * @a: first operand
+ * @b: second operand
  * Return: int
  */
 
