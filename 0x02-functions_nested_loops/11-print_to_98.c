@@ -4,6 +4,7 @@
 /**
  * print_to_98 - Entry point
  * Description -Prints all natural numbers from n to 98
+ * @n: starting point
  * Return: int
  */
 
