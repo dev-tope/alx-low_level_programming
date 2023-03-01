@@ -2,7 +2,7 @@
 
 /**
  * reverse_array - Enrey point
- * Description: Reverses the content of an array of integers
+ * Description: Reverses array of integers
  * @a: Integer
  * @n: Integer
  * Return: int
