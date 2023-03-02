@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * reverse_array - Enrey point
- * Description: Reverses array of integers
+ * reverse_array - Entry point
+ * Description: Reverses the content of an array of integers
  * @a: Integer
  * @n: Integer
  * Return: int
